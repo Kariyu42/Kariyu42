@@ -1,4 +1,4 @@
-## /* WELCOME */
+## 👋 Hi and welcome to my profile!
 
 Status :
  - 💻 ４２ Nice Student.
