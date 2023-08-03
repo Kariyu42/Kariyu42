@@ -16,5 +16,6 @@ I'm a student at 42 Nice, where I'm learning programming through the Common Core
 ### Stats :
 <p align="center">
   <a href="https://github.com/Kariyu42">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kariyu42" alt="GitHub Streak" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kariyu42&background=333333&stroke=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  </a>
 </p>
