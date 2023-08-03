@@ -8,13 +8,13 @@ I'm a student at 42 Nice, where I'm learning programming through the Common Core
   <img src="https://img.shields.io/badge/status-active-success" alt="Status">
 </p>
 
- - 💻 ４２ Nice Student.
- - Learning C programming.
- - 🌱 Currently at the Common Core.
+## Status
+- Student at 42 Nice 🔭
+- Currently at the Common Core 🌱
+- Undergoing project: Minishell 🐚
 
-### :fire: Stats :
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kariyu42)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kariyu42&layout=compact)
-
-![Snake Contribution](https://github.com/Kariyu42/Kariyu42/blob/output/github-contribution-grid-snake.svg)
+### Stats :
+<p align="center">
+  <a href="https://github.com/Kariyu42">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kariyu42" alt="GitHub Streak" />
+</p>
