@@ -11,7 +11,7 @@ I'm a student at 42 Nice, where I'm learning programming through the Common Core
 ## Status
 - Student at 42 Nice 🔭
 - Currently at the Common Core 🌱
-- Undergoing project: Minishell 🐚
+- Undergoing project: Philosophers 🧐
 
 ### Stats :
 <p align="center">
