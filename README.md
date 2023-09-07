@@ -14,4 +14,4 @@ I'm a student at 42 Nice, where I'm learning programming through the Common Core
 - Undergoing project: Philosophers 🧐
 
 ### Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kariyu42&theme=monokai-metallian&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kariyu42&theme=monokai-metallian&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
