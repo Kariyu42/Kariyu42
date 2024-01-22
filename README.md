@@ -2,7 +2,7 @@
 I'm a student at 42 Nice, where I'm learning programming through the Common Core curriculum. Right now, I'm focusing on the C language, working on various projects that help me understand its fundamentals. It's an exciting journey that's building my skills and knowledge in coding.
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/kian-r-178b7b210/](https://www.linkedin.com/in/kian-riou-178b7b210/)">
+  <a href="https://www.linkedin.com/in/kian-riou-178b7b210/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
   <img src="https://img.shields.io/badge/status-active-success" alt="Status">
