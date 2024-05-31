@@ -11,7 +11,8 @@ I'm a student at 42 Nice, where I'm learning programming through the Common Core
 ## Status
 - Student at 42 Nice 🔭
 - Currently at the Common Core 🌱
-- Undergoing project: Inception 🐳, ft_irc 💬
+- Undergoing project:<br>
+  School 🎓: ft_transcendance
 
 ### Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kariyu42&theme=monokai-metallian&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
