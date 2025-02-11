@@ -6,10 +6,11 @@
 
 ## 👨‍💻 About Me
 
-```
-🚀 Passionate about learning by building.
-🎓 Studying at 42, a project-based computer science school.
-```
+
+- 🚀 Passionate about learning by building.
+- 🎓 Studying at 42, a project-based computer science school.
+- 🖥️ DevOps Intern at [WWWASTE](https://wwwaste.io/)
+
 
 ## 🛠️ Languages & Tools  
 
