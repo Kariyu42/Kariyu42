@@ -8,7 +8,7 @@
 
 ```
 🚀 Passionate about learning by building.
-🎓 Studying at **42**, a project-based computer science school.
+🎓 Studying at 42, a project-based computer science school.
 ```
 
 ## 🛠️ Languages & Tools  
