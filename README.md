@@ -22,7 +22,7 @@
 
 ### Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,c,cpp,tailwind" alt="Languages & Frameworks">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,c,cpp" alt="Languages & Frameworks">
 </p>
 
 ### DevOps & Cloud
